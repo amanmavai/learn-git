@@ -1,0 +1,6 @@
+[submodule "react-workspace"]
+	path = react-workspace
+	url = https://github.com/amanmavai/react-workspace.git
+[submodule "random-workspace"]
+	path = random-workspace
+	url = https://github.com/amanmavai/random-workspace.git
